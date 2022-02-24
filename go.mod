@@ -1,3 +1,3 @@
-module github.com/gostool/humplib.git
+module github.com/gostool/humplib
 
 go 1.16
